@@ -1,0 +1,22 @@
+/*  CONTEUDO DO index.Main */
+main{
+    display: flex;
+    justify-content: center;
+}
+#BoasVindas{
+    background-color: aquamarine;
+    width: 60%;
+    height: auto;
+    margin-top: 30px;
+    padding: 2px;
+    border-radius: 20px;
+    display: flex;
+    gap: 10px;
+}
+#BoasVindas img{
+    width: 50%;
+    border-radius: 30px;
+}
+#BoasVindas p{
+    font-size: 10pt;
+}
